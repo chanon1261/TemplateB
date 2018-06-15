@@ -34,3 +34,25 @@ body{
     filter: grayscale(80%);
    
 }
+.btn-outline-dark {
+    color: white;
+    background-color: transparent;
+    background-image: none;
+    border-color: white;
+    width: 30%;
+    border-radius: 12px;
+
+}
+.col3div{
+    height: 150%;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+.resize_fit_center {
+    height: 100%;
+    width: 120%%;
+   
+}
