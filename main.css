@@ -69,3 +69,25 @@ body{
 .resize{
     font-size: 60px;
 }
+.img-cir {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    border: 5px solid white;
+
+    
+}
+.poname{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color:  white;
+}
+.footer{
+    font-size: 50px;
+    padding-right: 5%;
+    padding-left: 5%;
+    color: #E59D69;
+}
+.footercolor{
+    color: #E59D69;
+}
